@@ -1,44 +1,45 @@
 # sesion-01a
 *Apuntes clase 100326*
 
-Tejido y proceso humano. Bordar y tejer cables
+- Tejido y proceso humano. Bordar y tejer cables
 
-Aaron es software y Missa es máquinas
+- Aaron es software y Missa es máquinas
 
-El corazón del robot es Chilena. Ella hace sus sintetizadores (chip + soldaduras)
+- El corazón del robot es Chilena. Ella hace sus sintetizadores (chip + soldaduras)
 
-La electrónica no es igual a tecnología ni computacional. Hay que saber diferenciar los términos. Tecnología aborda otros ámbitos de lo que nosotros estamos haciendo en el taller.
+- La electrónica no es igual a tecnología ni computacional. Hay que saber diferenciar los términos. Tecnología aborda otros ámbitos de lo que nosotros estamos haciendo en el taller.
 
-Cristian oyarzun es académico de la escuela y referentes de los profes
+- Cristian oyarzun es académico de la escuela y referentes de los profes
 
-PCB con ensamblado es un PCBA
+- PCB con ensamblado es un PCBA
 
-Soporte electromagnético
+- Soporte electromagnético
 
-SMD es igual que SMD. Son dos formas distintas de escribirlo
+- SMD es igual que SMD. Son dos formas distintas de escribirlo
 
-JLCPB, CPU, PWM (con tanta sigla, me doy cuenta porque me cuesta aprenderme nombres de aparatos)
+- JLCPB, CPU, PWM (con tanta sigla, me doy cuenta porque me cuesta aprenderme nombres de aparatos)
 
-Chips hecho con silicio, es lo más abundante en la tierra después del Oxígeno
+- Chips hecho con silicio, es lo más abundante en la tierra después del Oxígeno
 
-PWM
+- PWM
 
-Electron viene del ámbar
+- Electron viene del ámbar
 
-Electricidad amplificar
+- Electricidad amplificar
 
 *Referentes mencionados en clase*
 
-KORG
+- KORG
 
-Music from outer space
-Oskitone lo dirige Tommy el cual crea instrumentos musicales y sintetizadores DIY (tuve la oportunidad de utilizar uno en el laboratorio, pero lo malo es que estaba desafinado)
+- Music from outer space
 
-Koma es de berlín
+- Oskitone lo dirige Tommy el cual crea instrumentos musicales y sintetizadores DIY (tuve la oportunidad de utilizar uno en el laboratorio, pero lo malo es que estaba desafinado)
 
-Tommgish
+- Koma es de berlín
 
-Gogbotic
+- Tommgish
+
+- Gogbotic
 
 *Post clase*
 
