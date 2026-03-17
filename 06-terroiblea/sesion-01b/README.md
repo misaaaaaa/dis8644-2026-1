@@ -59,7 +59,7 @@ CAUDAL = ALTURA / OPOSICIÓN
 - **Condensador**, es un componente eléctrico pasivo que almacena energía rápidamente en forma de campo eléctrico entre dos placas conductoras separadas por un material dieléctrico. Se utiliza para filtrar señales, nivelar voltajes en fuentes de alimentación y en el arranque de motores.
 - **Potenciometro**, es una resistencia variable mecánica de tres terminales que ajusta manualmente la intensidad de corriente o voltaje en un circuito, actuando como divisor de tensión. Mediante un cursor deslizante sobre una pista resistiva, altera la resistencia entre 0 y su valor máximo nominal, siendo comunes los tipos rotatorios y deslizantes en aplicaciones como volumen o iluminación. (casi toda la información fue sacada de Gemini). 
 
-![componentes](./imagenes/componentes.png)
+![componentes](./imagenes/componentes1.png)
 
 A considerar: 
 
@@ -109,7 +109,7 @@ Ver el documental the internet's own boy, sobre la vida de Aaron Swartz, y escri
 
 Es un documental dirigido por Brian Knappenberger que narra la vida, pensamiento y muerte del programador y activista de internet Aaron Swartz. La película no solo cuenta su historia personal, sino que también explora temas más amplios como el acceso al conocimiento, el poder de las corporaciones y gobiernos sobre la información, y el impacto que puede tener un individuo en el mundo digital.
 
-![aaron](./imagenes/aaron.png)
+![aaron](./imagenes/aaron1.png)
 
 El documental introduce a Aaron Swartz como un niño con una curiosidad y sensibilidad fuera de lo común. Según el relato de sus padres, no solo destacaba por su capacidad intelectual, sino por pasar horas reflexionando sobre la justicia y el funcionamiento de la sociedad. Creció en los inicios de una internet libre y experimental, lo que le permitió colaborar con expertos desde muy joven. Un hito clave es que a los 13 años ya participaba en el desarrollo del sistema RSS, demostrando que para él la red no era solo tecnología, sino una herramienta para democratizar el conocimiento.
 
